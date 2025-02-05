@@ -33,6 +33,7 @@ return {
         "░▒▓███████▓▒░ ░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓█▓▒░▒▓███████▓▒░",
         "               ░▒▓█▓▒░                                     ",
         "                ░▒▓██▓▒░                                   ",
+        "Fear the embrace of the abyssal squid, for its tentacles weave nightmares beyond mortal sanity.",
       }
       return opts
     end,
